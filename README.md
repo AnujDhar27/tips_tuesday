@@ -15,4 +15,5 @@ Photo editors can be used to manually remove the background of the images, but t
 Visuals play a vital role in UI/UX designing. They can enhacne the overall look of our interface, grab the user's attention and provide context to the rest of our content. Manually seaching for stock photography websites, dowloading images and adding them to our design can be cumbersome and time consuming. This is where the usplash plugin makes our task easier. 
 unsplash is a royalty-free image gallery that we can use even without exiting our screen. Unsplash has thousands of images submitted by the public community, so no matter what we are designing, unsplash will surely provide us with some images. All we have to do is open up the plugin and search for the keyword and now we have multiple images to choose from. 
 Unsplash's images files usually occupy less than one MB of space, so we don't have to worry about performance too much.  Thus, this plugin is convinient and also comes free of charge.  
+
 ![image](https://user-images.githubusercontent.com/90615759/182791020-a0775c98-7bc6-4cdc-8a5d-c738582d6177.png)
