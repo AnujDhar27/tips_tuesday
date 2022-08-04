@@ -12,3 +12,5 @@ Photo editors can be used to manually remove the background of the images, but t
 ![image](https://user-images.githubusercontent.com/90615759/182788864-c575efbc-a7b7-4a46-9c20-e1ec7762d5b9.png)
 
 2) Unsplash:
+
+![image](https://user-images.githubusercontent.com/90615759/182791020-a0775c98-7bc6-4cdc-8a5d-c738582d6177.png)
