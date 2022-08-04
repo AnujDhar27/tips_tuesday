@@ -7,4 +7,6 @@ Here are some of the useful figma plugins:
 Images are a crucial and important part of any UI/UX design. Sometimes their backgrounds can make your design feel off, clutterd and ultimately drive attention away from where it is needed. 
 Photo editors can be used to manually remove the background of the images, but that can take up a lot of our time especially when we are working with multiple images. 
 
-![image](https://user-images.githubusercontent.com/90615759/182788733-0fc3e2a0-f75f-4258-bac0-e229169a3bf9.png)
+![image](https://user-images.githubusercontent.com/90615759/182789136-d82a4eb8-cb40-42a9-8fb3-fadb09e1fd81.png)
+![image](https://user-images.githubusercontent.com/90615759/182788844-8513fdbe-c89e-45eb-80dd-f95e1ae89691.png)
+![image](https://user-images.githubusercontent.com/90615759/182788864-c575efbc-a7b7-4a46-9c20-e1ec7762d5b9.png)
